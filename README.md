@@ -1,2 +1,2 @@
 # HakatomOy.github.io
-Public Web Page
+Public Web Page for Hakatom Oy
